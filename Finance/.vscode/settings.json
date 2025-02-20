@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin/Release/net9.0/publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/32dc7fa6-b3a1-43d9-86a1-b07a3b28895f/resourceGroups/SpencerFinance/providers/Microsoft.Web/sites/SpencerFinance"
+}
