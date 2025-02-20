@@ -11,7 +11,8 @@ public class Account
     public Decimal Balance { get; set; }
     public AccountType AccountType { get; set; }
     public Decimal InterestRate { get; set; }
-    public List<Transaction> Transactions { get; set; }
+
+    //public List<Transaction> Transactions { get; set; }
     
     //public DateTime DueDate { get; set; }
 
